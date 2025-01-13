@@ -12,3 +12,7 @@ La natación es un ejercicio cardiovascular completo que trabaja casi todos los 
 1. Comienza con un calentamiento de 5-10 minutos nadando suavemente.
 2. Nada durante al menos 30 minutos, alternando entre estilos (crol, espalda, pecho) para variar la intensidad.
 3. Termina con un enfriamiento de 5-10 minutos nadando suavemente y estiramientos.
+
+## Consejos
+- Mantén una técnica adecuada para evitar lesiones.
+- Escoge un estilo que se adapte a tu nivel de habilidad.
