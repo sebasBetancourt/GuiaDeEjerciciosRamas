@@ -12,3 +12,8 @@ El Pilates es un sistema de ejercicios que fortalece el cuerpo, mejora la flexib
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza los ejercicios de Pilates (como el "Cien", "Rolling Like a Ball", o "Teaser") durante 30-45 minutos.
 3. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Mantén la respiración controlada durante los ejercicios.
+- Realiza cada movimiento con precisión y concentración.
+- Asegúrate de mantener una postura adecuada en todo momento.
