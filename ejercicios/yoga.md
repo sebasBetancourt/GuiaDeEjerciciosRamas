@@ -13,3 +13,6 @@ El yoga es una práctica que combina respiración, movimiento y concentración, 
 2. Realiza una serie de posturas (asanas) durante al menos 30 minutos, combinando posturas de pie, equilibrio, flexibilidad y posturas invertidas.
 3. Termina con un enfriamiento de 5-10 minutos, incluyendo la postura final de relajación (Savasana) y respiraciones profundas.
 
+## Consejos
+- Mantén la concentración en la respiración durante todo el entrenamiento.
+- No fuerces las posturas, escucha a tu cuerpo y avanza según tu propio ritmo.
