@@ -13,3 +13,6 @@ La flexibilidad mejora el rango de movimiento y la circulación sanguínea, lo q
 2. Realiza una rutina de estiramientos dinámicos durante 30 minutos, alternando entre estiramientos para diferentes grupos musculares.
 3. Termina con estiramientos estáticos.
 
+## Consejos
+- Estira suavemente sin forzar el rango de movimiento.
+- Respira profundamente durante los estiramientos para relajar el cuerpo.
